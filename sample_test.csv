@@ -1,0 +1,3 @@
+OrderID,Date,Product,Category,Region,Quantity,UnitPrice,Revenue
+1001,2024-01-12,Laptop,Electronics,West,2,889.50,1779.00
+1002,2024-01-22,Smartphone,Electronics,South,3,612.40,1837.20
