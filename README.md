@@ -1,4 +1,4 @@
-# Tiny Sales Guru 📈
+# Sales Analysis 📈
 
 A high-fidelity sales analytics dashboard built entirely in **Python** using **Streamlit**, **Pandas**, and **Plotly**.
 

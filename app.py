@@ -6,7 +6,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
 
-st.set_page_config(page_title="Tiny Sales Guru", page_icon="📈", layout="wide")
+st.set_page_config(page_title="Sales Analysis", page_icon="📈", layout="wide")
 
 st.markdown("""
 <style>
@@ -99,7 +99,7 @@ def analyze_df(df: pd.DataFrame):
     
     return df
 
-st.title("📈 Tiny Sales Guru")
+st.title("📈 Sales Analysis")
 st.markdown("Python-Powered Analytics Dashboard")
 
 uploaded_file = st.file_uploader("Upload Sales CSV", type=["csv"])
